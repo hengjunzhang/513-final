@@ -50,7 +50,7 @@ The trained model demonstrates a notable improvement in the quality of upsampled
 
 ### Qualitative Results
 
-![Original vs. Super-Resolved]<img width="790" alt="image" src="https://github.com/hengjunzhang/513-final/assets/146139584/37055f65-4d74-4bef-a6a3-7d5f16520870">
+<img width="790" alt="image" src="https://github.com/hengjunzhang/513-final/assets/146139584/37055f65-4d74-4bef-a6a3-7d5f16520870">
 
 
 ## Conclusion and Future Work
