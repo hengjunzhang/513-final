@@ -43,8 +43,8 @@ The model was trained using the following settings:
 
 The following graph illustrates the training and validation loss over the epochs:
 
-![Training and Validation Loss](<img width="575" alt="image" src="https://github.com/hengjunzhang/513-final/assets/146139584/217188b7-5fcd-41e2-a174-17f9ef5bc93b">
-)
+![Training and Validation Loss]<img width="575" alt="image" src="https://github.com/hengjunzhang/513-final/assets/146139584/217188b7-5fcd-41e2-a174-17f9ef5bc93b">
+
 
 As shown in the graph, both losses decreased over time and the validation loss tracked closely with the training loss, which is a good indication of the model's performance.
 
