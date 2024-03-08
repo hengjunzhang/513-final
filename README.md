@@ -60,7 +60,8 @@ The trained model demonstrates a notable improvement in the quality of upsampled
 
 ### Qualitative Results
 
-<img width="790" alt="image" src="https://github.com/hengjunzhang/513-final/assets/146139584/37055f65-4d74-4bef-a6a3-7d5f16520870">
+<<img width="791" alt="image" src="https://github.com/hengjunzhang/513-final/assets/146139584/82c05585-ce69-435d-8c1c-3246c39ac417">
+>
 
 
 ## Conclusion and Future Work
